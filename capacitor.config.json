@@ -1,0 +1,7 @@
+{
+  "appId": "com.streamly.app",
+  "appName": "Streamly",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
